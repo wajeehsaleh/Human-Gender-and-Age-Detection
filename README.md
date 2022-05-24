@@ -9,7 +9,7 @@
 
 In this Python Project, We have used Deep Learning to accurately identify the gender and age of a person from a single image of a face.The predicted gender may be one of &#39;Male&#39; and &#39;Female&#39;, and the predicted age may be one of the following ranges- (0 – 2), (4 – 6), (8 – 12), (15 – 20), (25 – 32), (38 – 43), (48 – 53), (60 – 100) (8 nodes in the final softmax layer). It is very difficult to accurately guess an exact age from a single image because of factors like makeup, lighting, obstructions, and facial expressions. And so, We made this a classification problem instead of making it one of regression.
 
-![](RackMultipart20220524-1-x5jw49_html_321e209de366015.png)
+<img width="342" alt="1" src="https://user-images.githubusercontent.com/76903537/170078709-ede21a23-bc9d-48da-b489-6dbb244f1633.png">
 
 #### The CNN Architecture
 
@@ -106,27 +106,27 @@ We will display the output of the network on the input images and show them usin
 
 ## **Example 1:**
 
-![](RackMultipart20220524-1-x5jw49_html_7999e036b3aff299.png)
+<img width="473" alt="2" src="https://user-images.githubusercontent.com/76903537/170079193-4ceaa4cd-0e0f-4397-aa9a-f66260c5c0a7.png">
 
 **Output**
 
-![](RackMultipart20220524-1-x5jw49_html_7999e036b3aff299.png)
+<img width="430" alt="1" src="https://user-images.githubusercontent.com/76903537/170079670-95364543-0d1d-4780-944d-d83a151fdc85.png">
 
 **Example 2:**
 
-![](RackMultipart20220524-1-x5jw49_html_19efad39c3ead5f7.png)
+<img width="474" alt="1" src="https://user-images.githubusercontent.com/76903537/170079846-acee4323-0739-4662-b4b5-c7ec10faa51c.png">
 
 **Output :**
 
-![](RackMultipart20220524-1-x5jw49_html_19efad39c3ead5f7.png)
+<img width="348" alt="1" src="https://user-images.githubusercontent.com/76903537/170079992-6820b8fe-b4b4-4fa4-8cc8-e131fd13d437.png">
 
 **Example 3:**
 
-![](RackMultipart20220524-1-x5jw49_html_4c7808f4746f642e.png)
+<img width="358" alt="1" src="https://user-images.githubusercontent.com/76903537/170080088-c9bd8412-53ee-4e39-9543-82bd3ed5785b.png">
 
 **Output :**
 
-![](RackMultipart20220524-1-x5jw49_html_2457b640d54e38e.png)
+<img width="354" alt="1" src="https://user-images.githubusercontent.com/76903537/170080197-54aec302-e1dd-45c0-b5a7-72d241b1886e.png">
 
 ## **Nobelity**  **Results**
 
@@ -138,26 +138,27 @@ We used some images which shows their actual photographs along with those from t
 
 **Example 1:**
 
-![](RackMultipart20220524-1-x5jw49_html_621f104f9f1f0184.png)
+<img width="288" alt="1" src="https://user-images.githubusercontent.com/76903537/170080378-4f9825a8-c5c5-4e74-a5bd-018485429206.png">
 
 **Output :**
 
-![](RackMultipart20220524-1-x5jw49_html_621f104f9f1f0184.png)
+<img width="404" alt="1" src="https://user-images.githubusercontent.com/76903537/170080460-437ea015-0dd6-46fc-a755-e5fc5fbbd3d8.png">
 
 **Example 2:**
 
-![](RackMultipart20220524-1-x5jw49_html_8003060d31f0fc2e.png)
+<img width="408" alt="1" src="https://user-images.githubusercontent.com/76903537/170080606-5ee8bdfa-dc18-441b-9e03-047baf949723.png">
 
 **Output :**
 
-![](RackMultipart20220524-1-x5jw49_html_f3e92d5d7047b54c.png)
+<img width="399" alt="1" src="https://user-images.githubusercontent.com/76903537/170080718-1eeb0be7-9c60-4383-af2e-477cc0b2abf9.png">
 
 **Example 3:**
 
-![](RackMultipart20220524-1-x5jw49_html_2503e6c4a7adb7b8.png)
+<img width="454" alt="1" src="https://user-images.githubusercontent.com/76903537/170080783-2053416f-9cff-4b1e-b7e8-542db3b78692.png">
 
 **Output :**
 
-![](RackMultipart20220524-1-x5jw49_html_b9c2313cb7bda42f.png)
+<img width="415" alt="1" src="https://user-images.githubusercontent.com/76903537/170081171-2fcc1a8f-5a4a-4202-a554-b77913e89268.png">
 
-**Lession learned :**
+
+
